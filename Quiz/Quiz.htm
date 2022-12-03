@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CodeQuiz</title>
+    <link rel="stylesheet" href="./Quiz.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <h1 class="welcomeH1">Welcome to <span class="js">Javascript</span> CodeQuiz</h1>
+    <div class="container">
+        <div class="game">
+            <h2 class="question">
+
+            </h2>
+            <div class="options">
+
+            </div>
+            <div class="submit">
+                Submit
+            </div>
+        </div>
+        <div class="results">
+            <h1>Quiz Ended!</h1>
+            <h2 class="score">
+                Your Score : <span class="scoreCount">30</span>
+            </h2>
+
+            <div class="correct flex">
+                <span>
+                    <img class="mx-1" width="50" src="https://cdn-icons-png.flaticon.com/512/8968/8968524.png" alt=""
+                        srcset="">
+                </span>
+                Correct Answers : 
+                <span class="correctCount mx-1"> 2</span>
+            </div>
+            <div class="wrong flex"> 
+                <span>
+                    <img class="mx-1" width="50" src="https://cdn-icons-png.flaticon.com/512/5287/5287965.png" alt="" srcset="">
+                </span> 
+                Wrong Answers : <span class="incorrectCount mx-1"> 1</span> </div>
+
+            <button class="playagain">
+                Play again
+            </button>
+
+        </div>
+    </div>
+
+    <script type="module" src="./Quiz.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,90 @@
+[
+    {
+        "_id": 1,
+        "question": "The exscape sequence 'f' stands for",
+        "answers": [
+            {
+                "answer": "Floating numbers",
+                "iscorrect": false
+            },
+            {
+                "answer": "Representation of functions that returns a value",
+                "iscorrect": false
+            },
+            {
+                "answer": "F is not present in Javascript",
+                "iscorrect": false
+            },
+            {
+                "answer": "Form feed",
+                "iscorrect": true
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "question": "The snippet that has to to used to check if 'a' is not qual to 'null' is",
+        "answers": [
+            {
+                "answer": "if(a!=null)",
+                "iscorrect": false
+            },
+            {
+                "answer": "if(!a)",
+                "iscorrect": false
+            },
+            {
+                "answer": "if(a!==null)",
+                "iscorrect": true
+            },
+            {
+                "answer": "if(a!null",
+                "iscorrect": false
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "question": "The statement a===b refers to",
+        "answers": [
+            {
+                "answer": "Both a and b are equal in value, type and reference address",
+                "iscorrect": false
+            },
+            {
+                "answer": "Both a and b are equal in value",
+                "iscorrect": false
+            },
+            {
+                "answer": "Both a and b are equal in value and type",
+                "iscorrect": true
+            },
+            {
+                "answer": "There is no such statement",
+                "iscorrect": false
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "question": "A function defination expresssion can be called",
+        "answers": [
+            {
+                "answer": "Function Prototype",
+                "iscorrect": false
+            },
+            {
+                "answer": "Function literal",
+                "iscorrect": true
+            },
+            {
+                "answer": "Function defination",
+                "iscorrect": false
+            },
+            {
+                "answer": "Function delclaration",
+                "iscorrect": false
+            }
+        ]
+    }
+]
