@@ -75,7 +75,6 @@ fetch('http://127.0.0.1:5500//JSON/Quiz.json').then(res => res.json()).then(ques
         incorrectCount.textContent = wrongansCount;
         correctCount.textContent = correctansCount;
         toggleGameScreen();
-        playagain();
     }
 
     let playagain_btn = document.querySelector('.playagain');
