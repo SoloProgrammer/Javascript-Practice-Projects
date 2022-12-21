@@ -1,0 +1,82 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 100%;
+}
+.Timer--container{
+    display: flex;
+    flex-direction: column;
+    gap: .8rem;
+}
+.Timer--container .Timer--title{
+    font-size: 3.5rem;
+    font-weight: 600;
+    color: rgb(35, 35, 35);
+    margin-bottom: 1rem;
+}
+.Timer--container ,.Timer--body,.Timer--labels,.Timer--inputs,.Timer--btns{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+.Timer--container .Timer--body{
+    flex-direction: column;
+    gap: 2rem;
+}
+.Timer--container .Timer--labels .Timer--label{
+    font-size: 2.3rem;
+    padding: 0.8rem .0;
+    text-align: center;
+    width: 18%;
+    text-align: center;
+
+}
+.Timer--container .Timer--inputs input{
+    border: none;
+    outline: none;
+    width: 75px;
+    font-size: 2.5rem;
+    text-align: center;
+}
+.Timer--container .Timer--inputs .Timer--colon{
+font-size: 2.5rem;
+}
+.Timer--container .Timer--inputs input::-webkit-inner-spin-button,
+.Timer--container .Timer--inputs input::-webkit-outer-spin-button{
+   -webkit-appearance:none;
+   margin: 0;
+
+}
+.Timer--container .Timer--btns{
+    margin-top: 1rem;
+    
+}
+.Timer--container .Timer--btns .Timer--btn{
+    width: 50%;
+    background: gray;
+    color: white;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    padding: .6rem;
+    font-size: 1.4rem;
+    border-radius: .2rem;
+
+}       
+.Timer--container .Timer--btns .start{
+background: rgb(14, 195, 14);
+}
+.Timer--container .Timer--btns .reset{
+    background: rgb(247, 50, 50);
+    }
+.Timer--container .Timer--btns .stop{
+    display: none;
+    background: rgb(213, 213, 27);
+}

@@ -1,0 +1,117 @@
+[
+    {
+        "_id":1,
+        "name":"Ant Esports KM500W Gaming Backlit Keyboard and Mouse Combo, LED Wired Gaming Keyboard, Ergonomic & Wrist Rest Keyboard, Programmable Gaming Mouse for PC/Laptop/Mac- World of Warships Edition",
+        "img":"https://m.media-amazon.com/images/I/51vN1agHImL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price":"1,199",
+        "category":"Combo Gaming",
+        "source":"https://www.amazon.in/gp/product/B081Q8PSKC?ref=ppx_pt2_dt_b_prod_image"
+        
+    },
+    {
+        "_id":2,
+        "name":"RAEGR RapidGear X70 Gaming Keyboard & Mouse Combo | Made of Aluminium Body | 4 Choices of Adjustable DPI | 3 Rainbow Lighting Modes, Instant Media Access | Gaming Mouse for PC/Laptop/Mac - RG10359",
+        "img":"https://m.media-amazon.com/images/I/41fF+JsDKZL._SY300_SX300_.jpg",
+        "price":"1,499",
+        "category":"Combo Gaming",
+        "source":"https://www.amazon.in/RAEGR-RapidGear-Keyboard-Aluminium-Adjustable/dp/B0B4NGMNXB/ref=sr_1_1?crid=SEDU0CSTX1CF&keywords=RAEGR+RapidGear+X70+Gaming+Keyboard+%26+Mouse+Combo+%7C+Made+of+Aluminium+Body+%7C+4+Choices+of+Adjustable+DPI+%7C+3+Rainbow+Lighting+Modes%2C+Instant+Media+Access+%7C+Gaming+Mouse+for+PC%2FLaptop%2FMac+-+RG10359&qid=1670220757&s=computers&sprefix=raegr+rapidgear+x70+gaming+keyboard+%26+mouse+combo+made+of+aluminium+body+4+choices+of+adjustable+dpi+3+rainbow+lighting+modes%2C+instant+media+access+gaming+mouse+for+pc%2Flaptop%2Fmac+-+rg10359%2Ccomputers%2C281&sr=1-1"
+        
+    },
+    {
+        "_id":3,
+        "name":"Logitech MX Mechanical Mini Wireless Illuminated Keyboard, Linear Switches, Backlit, Bluetooth, USB-C, macOS, Windows, Linux, iOS, Android, Metal",
+        "img":"https://m.media-amazon.com/images/I/41eYaAGbmRL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price":"15,495",
+        "category":"Mechanical",
+        "source":"https://www.amazon.in/Logitech-Mechanical-Wireless-Illuminated-Bluetooth/dp/B0B39G23CW/ref=sr_1_1?crid=2RG5ESOE84OID&keywords=Logitech+MX+Mechanical+Mini+Wireless+Illuminated+Keyboard%2C+Linear+Switches%2C+Backlit%2C+Bluetooth%2C+USB-C%2C+macOS%2C+Windows%2C+Linux%2C+iOS%2C+Android%2C+Metal&qid=1670220806&s=computers&sprefix=logitech+mx+mechanical+mini+wireless+illuminated+keyboard%2C+linear+switches%2C+backlit%2C+bluetooth%2C+usb-c%2C+macos%2C+windows%2C+linux%2C+ios%2C+android%2C+metal%2Ccomputers%2C470&sr=1-1"
+        
+    },
+    {
+        "_id":4,
+        "name":"Redragon K617 Fizz 60% Wired RGB Gaming Keyboard, 61 Keys Compact Mechanical Keyboard w/White and Grey Color Keycaps, Linear Red Switch, Pro Driver/Software Supported",
+        "img":"https://m.media-amazon.com/images/I/51terFF14zL._SY450_.jpg",
+        "price":"2,790",
+        "category":"Mechanical",
+        "source":"https://www.amazon.in/Redragon-K617-Keyboard-Mechanical-Supported/dp/B09R3NQLYL/ref=sr_1_3?crid=GUE86M0L1QA3&keywords=Redragon+K617+Fizz+60%25+Wired+RGB+Gaming+Keyboard%2C+61+Keys+Compact+Mechanical+Keyboard+w%2FWhite+and+Grey+Color+Keycaps%2C+Linear+Red+Switch%2C+Pro+Driver%2FSoftware+Supported&qid=1670220922&s=computers&sprefix=redragon+k617+fizz+60%25+wired+rgb+gaming+keyboard%2C+61+keys+compact+mechanical+keyboard+w%2Fwhite+and+grey+color+keycaps%2C+linear+red+switch%2C+pro+driver%2Fsoftware+supported%2Ccomputers%2C307&sr=1-3"
+        
+    },  
+    {
+        "_id":5,
+        "name":"Logitech K480 Wireless Multi-Device Keyboard for Windows, macOS, iPadOS, Android or Chrome OS, Bluetooth, Compact, Compatible with PC, Mac, Laptop, Smartphone, Tablet - Black",
+        "img":"https://m.media-amazon.com/images/I/41hzQslWQlL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price":"2,795",
+        "category":"Wireless",
+        "source":"https://www.amazon.in/Logitech-Multi-Device-Bluetooth-Keyboard-Black/dp/B00MUTWLW4/ref=sr_1_3?crid=L2LPN9ELWE5W&keywords=Logitech+K480+Wireless+Multi-Device+Keyboard+for+Windows%2C+macOS%2C+iPadOS%2C+Android+or+Chrome+OS%2C+Bluetooth%2C+Compact%2C+Compatible+with+PC%2C+Mac%2C+Laptop%2C+Smartphone%2C+Tablet+-+Black&qid=1670221041&s=computers&sprefix=logitech+k480+wireless+multi-device+keyboard+for+windows%2C+macos%2C+ipados%2C+android+or+chrome+os%2C+bluetooth%2C+compact%2C+compatible+with+pc%2C+mac%2C+laptop%2C+smartphone%2C+tablet+-+black%2Ccomputers%2C320&sr=1-3"
+        
+    },
+    {
+        "_id":6,
+        "name":"iClever BK10 Bluetooth Keyboard for Mac, Multi Device Wireless Keyboard Rechargeable Bluetooth 5.1",
+        "img":"https://m.media-amazon.com/images/I/41ggTRmd8bL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price":"2,599",
+        "category":"Wireless",
+        "source":"https://www.amazon.in/iClever-Bluetooth-Rechargeable-Ergonomic-Connection/dp/B07TS6R1SF/ref=sr_1_1?crid=CBNUCKPAKVM6&keywords=iClever+BK10+Bluetooth+Keyboard+for+Mac%2C+Multi+Device+Wireless+Keyboard+Rechargeable+Bluetooth+5.1&qid=1670221086&s=computers&sprefix=iclever+bk10+bluetooth+keyboard+for+mac%2C+multi+device+wireless+keyboard+rechargeable+bluetooth+5.1%2Ccomputers%2C359&sr=1-1"
+        
+    },
+    {
+        "_id":7,
+        "name":"Quantum Rapid Strike Mechanical Wired Gaming Keyboard with Dedicated Multimedia Keys, 6-Colour RGB LED, 12 Adjustable Lighting Modes, Spill-Resistant, Aluminium Body and Rupee (₹) Key, QHM9850 (Black)",
+        "img":"https://m.media-amazon.com/images/I/711oEWUIxzL._SY450_.jpg",
+        "price":"1,499",
+        "category":"Wired",
+        "source":"https://www.amazon.in/Quantum-Mechanical-Multimedia-Keyboard-Adjustable/dp/B0B1MRNF93/ref=sr_1_1?crid=18SFJMD3F7CWP&keywords=Quantum+Rapid+Strike+Mechanical+Wired+Gaming+Keyboard+with+Dedicated+Multimedia+Keys%2C+6-Colour+RGB+LED%2C+12+Adjustable+Lighting+Modes%2C+Spill-Resistant%2C+Aluminium+Body+and+Rupee+%28%E2%82%B9%29+Key%2C+QHM9850+%28Black%29&qid=1670221117&s=computers&sprefix=quantum+rapid+strike+mechanical+wired+gaming+keyboard+with+dedicated+multimedia+keys%2C+6-colour+rgb+led%2C+12+adjustable+lighting+modes%2C+spill-resistant%2C+aluminium+body+and+rupee+key%2C+qhm9850+black+%2Ccomputers%2C295&sr=1-1"
+        
+    },
+    {
+        "_id":8,
+        "name":"HUO JI Mechanical Keyboard 61 Keys, E-YOOSO Z-11 Red Switch, 60% Small, Compact Keyboard, USB Wired, English Layout, Compatible Gaming Keyboard, Gray + White",
+        "img":"https://m.media-amazon.com/images/I/618biJZ-e0L._SX679_.jpg",
+        "price":"3,239",
+        "category":"Wired",
+        "source":"https://www.amazon.in/HUO-JI-Mechanical-Keyboard-Compatible/dp/B0B12J5G81/ref=sr_1_1?crid=39G4YAU3YT764&keywords=HUO+JI+Mechanical+Keyboard+61+Keys%2C+E-YOOSO+Z-11+Red+Switch%2C+60%25+Small%2C+Compact+Keyboard%2C+USB+Wired%2C+English+Layout%2C+Compatible+Gaming+Keyboard%2C+Gray+%2B+White&qid=1670221148&s=computers&sprefix=huo+ji+mechanical+keyboard+61+keys%2C+e-yooso+z-11+red+switch%2C+60%25+small%2C+compact+keyboard%2C+usb+wired%2C+english+layout%2C+compatible+gaming+keyboard%2C+gray+%2B+white%2Ccomputers%2C270&sr=1-1"
+        
+    },
+    {
+        "_id":9,
+        "name":"Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key",
+        "img":"https://m.media-amazon.com/images/I/41XQP3N-SdL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price":"329",
+        "category":"Light weight",
+        "source":"https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ref=sr_1_1?crid=1WORY370KXTIH&keywords=Zebronics+ZEB-KM2100+Multimedia+USB+Keyboard+Comes+with+114+Keys+Including+12+Dedicated+Multimedia+Keys+%26+with+Rupee+Key&qid=1670221193&s=computers&sprefix=zebronics+zeb-km2100+multimedia+usb+keyboard+comes+with+114+keys+including+12+dedicated+multimedia+keys+%26+with+rupee+key%2Ccomputers%2C324&sr=1-1"
+        
+    },{
+        "_id":10,
+        "name":"MEETION MT-MK600MX Wired Mechanical Gaming Keyboard Black, All-Key Anti Ghosting, 22 Backlight Modes, 6 Brightness Levels, 12 Multimedia Shortcuts, Works with Windows XP/Vista/7/8/10/11 MAC OS X",
+        "img":"https://m.media-amazon.com/images/I/51YbSaGRD6L._SY450_.jpg",
+        "price":"2,499",
+        "category":"Single Gaming",
+        "source":"https://www.amazon.in/MEETION-MT-MK600MX-Mechanical-Brightness-Multimedia/dp/B097T1QFP9/ref=sr_1_1?crid=1G9UNHUAGT17Q&keywords=MEETION+MT-MK600MX+Wired+Mechanical+Gaming+Keyboard+Black%2C+All-Key+Anti+Ghosting%2C+22+Backlight+Modes%2C+6+Brightness+Levels%2C+12+Multimedia+Shortcuts%2C+Works+with+Windows+XP%2FVista%2F7%2F8%2F10%2F11+MAC+OS+X&qid=1670221235&s=computers&sprefix=meetion+mt-mk600mx+wired+mechanical+gaming+keyboard+black%2C+all-key+anti+ghosting%2C+22+backlight+modes%2C+6+brightness+levels%2C+12+multimedia+shortcuts%2C+works+with+windows+xp%2Fvista%2F7%2F8%2F10%2F11+mac+os+x%2Ccomputers%2C288&sr=1-1"
+        
+    },{
+        "_id":11,
+        "name":"Redragon Shiva K512 RGB Backlit Membrane Wired Gaming Keyboard with Multimedia Keys, 6 Extra On-Board Macro Keys, Dedicated Media Control, Detachable Wrist Rest- Black",
+        "img":"https://m.media-amazon.com/images/I/41ugsro56nL._SX300_SY300_QL70_FMwebp_.jpg",
+        "price":"1,999",
+        "category":"Single Gaming",
+        "source":"amazon.in/Redragon-Multimedia-Mechanical-Dedicated-Detachable/dp/B082KR95Z4/ref=sr_1_1?crid=1GEL11PZMEIBD&keywords=Redragon+Shiva+K512+RGB+Backlit+Membrane+Wired+Gaming+Keyboard+with+Multimedia+Keys%2C+6+Extra+On-Board+Macro+Keys%2C+Dedicated+Media+Control%2C+Detachable+Wrist+Rest-+Black&qid=1670221519&s=computers&sprefix=redragon+shiva+k512+rgb+backlit+membrane+wired+gaming+keyboard+with+multimedia+keys%2C+6+extra+on-board+macro+keys%2C+dedicated+media+control%2C+detachable+wrist+rest-+black%2Ccomputers%2C656&sr=1-1"
+        
+    },{
+        "_id":12,
+        "name":"ZEBRONICS Zeb-MAX Chroma Premium Mechanical Gaming Keyboard with 104 Tactile Switch Keys, Wrist Rest, 18 RGB LED Modes, Braided & Gold Plated USB Cable",
+        "img":"https://m.media-amazon.com/images/I/81Iq8115o9S._AC_SS450_.jpg",
+        "price":"3,799",
+        "category":"Single Gaming",
+        "source":"https://www.amazon.in/ZEBRONICS-Zeb-MAX-Premium-Mechanical-Keyboard/dp/B08TJL4SK4/ref=sr_1_3?crid=1VMQ08MQYBLXW&keywords=ZEBRONICS+Zeb-MAX+Chroma+Premium+Mechanical+Gaming+Keyboard+with+104+Tactile+Switch+Keys%2C+Wrist+Rest%2C+18+RGB+LED+Modes%2C+Braided+%26+Gold+Plated+USB+Cable&qid=1670221559&s=computers&sprefix=zebronics+zeb-max+chroma+premium+mechanical+gaming+keyboard+with+104+tactile+switch+keys%2C+wrist+rest%2C+18+rgb+led+modes%2C+braided+%26+gold+plated+usb+cable%2Ccomputers%2C267&sr=1-3"
+        
+    },
+    {
+        "_id":13,
+        "name":"Zebronics Zeb-Transformer Gaming Keyboard and Mouse Combo (USB, Braided Cable)",
+        "img":"https://m.media-amazon.com/images/I/51DY+QrEpOL._SX569_.jpg",
+        "price":"1,225",
+        "category":"Combo Gaming",
+        "source":"https://www.amazon.in/dp/B07BRKK9JQ/ref=sspa_dk_detail_1?psc=1&pd_rd_i=B07BRKK9JQ&pd_rd_w=sPzJG&content-id=amzn1.sym.341eb43e-ea7c-457f-aa0f-a8bbc2ea1307&pf_rd_p=341eb43e-ea7c-457f-aa0f-a8bbc2ea1307&pf_rd_r=AFA151KPS0QYSVA9QWQD&pd_rd_wg=tGDVh&pd_rd_r=871e1b71-4b91-411a-b4f2-12fd74eb019b&s=computers&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy"
+        
+    }
+    
+]
