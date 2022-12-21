@@ -36,9 +36,9 @@
 
                 options.innerHTML = questions[quesno].answers.map((item, index) =>
                     `<div class="option">
-            <input name="quizoption" type="radio" id=${index} value=${item.iscorrect} />
-            <label for=${index}>${item.answer}</label>
-        </div>`
+                        <input name="quizoption" type="radio" id=${index} value=${item.iscorrect} />
+                        <label for=${index}>${item.answer}</label>
+                    </div>`
                 ).join("")
 
                 selectOptions()
